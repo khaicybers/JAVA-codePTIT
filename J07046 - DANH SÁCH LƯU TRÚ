@@ -32,7 +32,7 @@ class KhachHang implements Comparable<KhachHang> {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
 
     public static void main(String[] args) throws IOException, ParseException {
         Scanner sc = new Scanner(new File("KHACH.in"));

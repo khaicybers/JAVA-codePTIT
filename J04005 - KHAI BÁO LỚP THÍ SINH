@@ -20,7 +20,7 @@ class Student {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
     public static void main(String[] args) {
         Student student = new Student();
         student.Input();

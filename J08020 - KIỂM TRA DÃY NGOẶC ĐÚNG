@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Lazygarde {
+public class Hadoki {
 
     public static int Check(String s) {
         Stack<Character> st = new Stack<>();

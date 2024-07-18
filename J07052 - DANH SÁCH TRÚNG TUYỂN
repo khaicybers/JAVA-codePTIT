@@ -48,7 +48,7 @@ class ThiSinh implements Comparable<ThiSinh> {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
 
     public static String chuanHoa(String s) {
         s = s.trim().toLowerCase().replaceAll("\\s+", " ");

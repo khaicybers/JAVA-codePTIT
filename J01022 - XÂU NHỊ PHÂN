@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lazygarde {
+public class Hadoki {
 
     static long a[] = new long[93];
 

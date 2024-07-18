@@ -48,7 +48,7 @@ class NhiemVu implements Comparable<NhiemVu> {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
 
     public static void main(String[] args) throws FileNotFoundException {
         Scanner sc = new Scanner(new File("SINHVIEN.in"));

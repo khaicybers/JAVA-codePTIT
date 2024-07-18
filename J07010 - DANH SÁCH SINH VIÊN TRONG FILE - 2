@@ -34,7 +34,7 @@ class SV {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner sc = new Scanner(new File("SV.in"));
         int n = sc.nextInt();

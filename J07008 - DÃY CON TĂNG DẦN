@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.Vector;
 
-public class Lazygarde {
+public class Hadoki {
 
     static int n, a[] = new int[25];
     static String k;

@@ -22,7 +22,7 @@ class DoanhNghiep {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner sc = new Scanner(new File("DN.in"));
         int n = sc.nextInt();

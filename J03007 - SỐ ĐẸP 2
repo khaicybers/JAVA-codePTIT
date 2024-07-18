@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lazygarde {
+public class Hadoki {
 
     public static int Check(String s) {
         int d = 0, n = s.length();

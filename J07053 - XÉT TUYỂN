@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import static java.lang.Math.round;
 import java.util.*;
 
-public class Lazygarde {
+public class Hadoki {
 
     public static String formatName(String name) {
         String[] s = name.trim().toLowerCase().split("\\s+");

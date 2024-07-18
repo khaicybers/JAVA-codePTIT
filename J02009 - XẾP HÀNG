@@ -13,7 +13,7 @@ class Pair {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

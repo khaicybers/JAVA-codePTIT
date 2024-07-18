@@ -33,7 +33,7 @@ class MatHang {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner sc = new Scanner(new File("MATHANG.in"));
         int n = sc.nextInt();

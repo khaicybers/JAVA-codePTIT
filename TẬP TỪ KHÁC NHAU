@@ -23,7 +23,7 @@ class WordSet {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
 
     public static void main(String[] args) throws FileNotFoundException {
         Scanner in = new Scanner(new File("VANBAN.in"));

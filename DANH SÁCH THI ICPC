@@ -23,7 +23,7 @@ class ThiSinh implements Comparable<ThiSinh> {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lazygarde {
+public class Hadoki {
 
     public static boolean Check(String s) {
         int n = s.length();

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Lazygarde {
+public class Hadoki {
 
     public static Long Gcd(Long a, Long b) {
         BigInteger m = BigInteger.valueOf(a);

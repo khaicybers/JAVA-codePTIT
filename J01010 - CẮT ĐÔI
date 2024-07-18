@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lazygarde {
+public class Hadoki {
 
     public static Long Try(String s) {
         Long ans = 0L;

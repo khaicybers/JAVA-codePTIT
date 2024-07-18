@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lazygarde {
+public class Hadoki {
 
     public static boolean nto(int n) {
         if (n < 2)

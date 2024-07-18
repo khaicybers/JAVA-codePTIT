@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.Vector;
 
-public class Lazygarde {
+public class Hadoki {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner sc = new Scanner(new File("DATA.in"));
         Vector<String> v = new Vector<>();

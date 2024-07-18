@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Vector;
 
-public class Lazygarde {
+public class Hadoki {
 
     static int n;
     static Vector<String> v = new Vector<>();

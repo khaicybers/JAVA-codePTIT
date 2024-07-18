@@ -24,7 +24,7 @@ class LoaiPhong implements Comparable<LoaiPhong> {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
     public static void main(String[] args) throws IOException {
         ArrayList<LoaiPhong> ds = new ArrayList<>();
         Scanner in = new Scanner(new File("PHONG.in"));

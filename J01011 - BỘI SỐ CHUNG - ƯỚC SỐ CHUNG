@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lazygarde {
+public class Hadoki {
 
     public static Long gcd(Long a, Long b) {
         while (a != 0) {

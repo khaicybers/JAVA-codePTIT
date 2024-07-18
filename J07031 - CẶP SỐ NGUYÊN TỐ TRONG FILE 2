@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.util.*;
 
-public class Lazygarde {
+public class Hadoki {
 
     public static boolean isPrime(int n) {
         for (int i = 2; i <= Math.sqrt(n); i++) {

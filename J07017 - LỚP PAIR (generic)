@@ -32,7 +32,7 @@ class Pair<T1, T2> {
     }
 }
 
-public class Lazygarde {
+public class Hadoki {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(new File("DATA.in"));
         int t = sc.nextInt();
